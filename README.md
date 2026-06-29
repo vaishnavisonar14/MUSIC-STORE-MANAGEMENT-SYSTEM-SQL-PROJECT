@@ -1,70 +1,88 @@
-🎵 Music Store Data Analysis using MySQL
-📌 Project Overview
+# 🎵 Music Store Data Analysis using MySQL
 
-This project demonstrates SQL skills by analyzing a Music Store database. Various SQL queries were used to answer business questions related to customers, invoices, genres, artists, albums, and sales.
+## 📌 Project Overview
 
-🛠 Tools Used
-MySQL
-MySQL Workbench
-SQL
-CSV Dataset
-Database Tables
-Customer
-Employee
-Invoice
-InvoiceLine
-Artist
-Album
-Track
-Genre
-Playlist
-PlaylistTrack
-MediaType
-SQL Concepts Used
-SELECT
-WHERE
-GROUP BY
-ORDER BY
-LIMIT
-Aggregate Functions
-INNER JOIN
-LEFT JOIN
-Subqueries
-Common Table Expressions (CTE)
-Window Functions
-Business Questions Solved
+This project analyzes a Music Store database using MySQL to answer real-world business questions. The project demonstrates SQL skills including joins, aggregate functions, subqueries, CTEs, and window functions to generate meaningful business insights.
 
-✔ Senior most employee
+---
 
-✔ Country with most invoices
+## 🛠️ Tools & Technologies
 
-✔ Best customer
+- MySQL
+- MySQL Workbench
+- SQL
+- CSV Dataset
 
-✔ Best selling artist
+---
 
-✔ Most popular genre
+## 📂 Dataset
 
-✔ Rock music listeners
+The project uses a Music Store relational database containing customer, invoice, artist, album, track, genre, playlist, and employee data.
 
-✔ Top spending customer
+---
 
-✔ Top city by revenue
+## 📊 SQL Concepts Used
 
-✔ Longest tracks
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Aggregate Functions
+- INNER JOIN
+- LEFT JOIN
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
 
-✔ Album analysis
+---
 
-and many more...
+## 📈 Business Questions Solved
 
-Key Skills Demonstrated
-Database Design
-Data Analysis
-SQL Query Writing
-Business Insights
-Data Aggregation
-Joins
-Subqueries
-Window Functions
-Project Outcome
+- Senior most employee
+- Country with the highest number of invoices
+- Best customer
+- Best-selling artist
+- Most popular music genre
+- Rock music listeners
+- Customer spending analysis
+- Highest revenue generating city
+- Longest tracks
+- Album analysis
 
-The project demonstrates practical SQL skills required for Data Analyst roles by solving real-world business problems using structured queries.
+---
+
+## 🎯 Key Skills Demonstrated
+
+- SQL Query Writing
+- Data Analysis
+- Database Management
+- Joins
+- Subqueries
+- CTEs
+- Window Functions
+- Business Insights
+
+---
+
+## 📸 Project Screenshots
+
+(Add screenshots of your SQL query results here.)
+
+---
+
+## 📁 Files Included
+
+- Music_Store_Database.sql
+- music_queries.sql
+- Dataset
+- ER Diagram
+- Query Result Screenshots
+
+---
+
+## 🚀 Conclusion
+
+This project helped me strengthen my SQL and data analysis skills by solving practical business problems using MySQL.
+
+⭐ If you found this project useful, please consider giving it a star.
